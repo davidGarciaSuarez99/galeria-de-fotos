@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../imagenes/pexels-jochen-meyer-2148428490-30091614.jpg");
+    background-size: cover;
+    background-position: center;
+}
+img{
+    object-fit: cover; 
+}
+
+
+
